@@ -26,3 +26,7 @@ const Blog = ()=>{
 }
 
 export default Blog;
+//exercise 2
+export const Greeting = ({name})=>{
+    return <h1>hello ,{name}</h1> 
+}
