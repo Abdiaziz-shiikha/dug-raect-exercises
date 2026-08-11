@@ -1,3 +1,6 @@
+import {useState} from 'react';
+
+
 const Header = ()=>{
     return <h1>About us</h1>
 }
@@ -26,7 +29,9 @@ const Blog = ()=>{
 }
 
 export default Blog;
-//exercise 2
+//exercise 3
 export const Greeting = ({name})=>{
     return <h1>hello ,{name}</h1> 
 }
+
+//test

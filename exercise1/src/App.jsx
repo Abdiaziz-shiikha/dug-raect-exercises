@@ -1,6 +1,7 @@
 import Blog from "./blog"
 import {Greeting} from "./blog"
 
+
 function App(){
  
   return(
@@ -8,8 +9,12 @@ function App(){
       <Blog/>
       //exercise 2
     <Greeting name="Abdiaziz"/>
-      
+      < Click/>
     </>
+
+    //test
+
+    
   
 
   )
